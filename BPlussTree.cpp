@@ -457,7 +457,6 @@ int main()
     int max;
     std::cout << "Ingrese el numero maximo de claves por hoja (orden m-1): ";
     std::cin >> max;
-    // max = 2; // Ejemplo de orden m-1
     bPlussTree arbol(max);
     while (true)
     {
