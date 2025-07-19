@@ -38,7 +38,7 @@ g++ BPlussTree.cpp -o bpluss
 Ingrese el numero maximo de claves por hoja (orden m-1): 2
 
 ### Luego puedes realizar cuanquier accion en el arbo B+
-  
+```bash
 1. Insertar
 2. Eliminar
 3. Imprimir
@@ -102,6 +102,7 @@ Valor a insertar: 6
 5. Salir
 Opcion: 4
 Imagen generada: arbol.png
+```  
 ### Con al opcion 4 nos va generar un .dot y un arbol.png
 Puedes ver el archivo .dot generado [aqui](./arbol.dot)
 ![Arbol B+ generado](./arbol.png)
