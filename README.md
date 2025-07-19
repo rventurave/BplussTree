@@ -33,11 +33,11 @@ g++ BPlussTree.cpp -o bpluss
 5. Salir
 
 ## Ejemplo: 
-# Inertar: 45, 61, 32, 89, 100, 2, 6
-# A inicio tienes que ingresar el maximo de claves por nodo
+### Inertar: 45, 61, 32, 89, 100, 2, 6
+### A inicio tienes que ingresar el maximo de claves por nodo
 Ingrese el numero maximo de claves por hoja (orden m-1): 2
 
-# Luego puedes realizar cuanquier accion en el arbo B+
+### Luego puedes realizar cuanquier accion en el arbo B+
   
 1. Insertar
 2. Eliminar
@@ -102,6 +102,6 @@ Valor a insertar: 6
 5. Salir
 Opcion: 4
 Imagen generada: arbol.png
-# Con al opcion 4 nos va generar un .dot y un arbol.png
+### Con al opcion 4 nos va generar un .dot y un arbol.png
 Puedes ver el archivo .dot generado [aqui](./arbol.dot)
 ![Arbol B+ generado](./arbol.png)
